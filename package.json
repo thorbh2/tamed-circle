@@ -1,0 +1,5 @@
+{
+  "name": "tamed-circle",
+  "version": "0.1.0",
+  "scripts": {"compile": "hardhat compile", "test": "hardhat test", "deploy": "hardhat run scripts/deploy.js"}
+}
