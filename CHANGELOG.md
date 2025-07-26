@@ -4,3 +4,4 @@
 - 2025-07-22: wire up wallet connect
 - 2025-07-22: improve error handling in deploy script
 - 2025-07-26: optimize tokenURI loop
+- 2025-07-26: wire up wallet connect
