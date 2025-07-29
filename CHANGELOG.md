@@ -8,3 +8,4 @@
 - 2025-07-28: add opensea metadata fields
 - 2025-07-28: add metadata generation script
 - 2025-07-28: add frontend skeleton
+- 2025-07-29: wire up wallet connect
