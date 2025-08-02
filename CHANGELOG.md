@@ -11,3 +11,4 @@
 - 2025-07-29: wire up wallet connect
 - 2025-07-29: update contract compiler
 - 2025-07-31: tweak gas limits in config
+- 2025-08-02: configure hardhat network
